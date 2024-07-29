@@ -3,3 +3,5 @@ DIKA - RESOLUSI
 - Membuat web design sederhana
 - Membuat relasi dan koneksi
 - Membuat forum diskusi
+- Membuat Merch Shop
+- Kolaborasi dengan banyak expert
